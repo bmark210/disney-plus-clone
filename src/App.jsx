@@ -5,6 +5,7 @@ import Home from "./components/Home";
 import Detail from "./components/Detail";
 
 function App() {
+  console.log("Hi there 👋🏻");
   return (
     <div className="App">
       <Header />
